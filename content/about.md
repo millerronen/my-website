@@ -5,13 +5,13 @@ date: 2023-MM-09
 description: "Backend Engineer | Cloud Specialist | Technology Enthusiast"
 --- 
 
-![Ronen Miller](/images/myself.jpg)
+![Ronen Miller](images/myself.jpg)
 
 ### About Me
 "Hey there! I'm a seasoned Backend Engineer with over a decade of hands-on experience crafting and scaling up some seriously complex systems. My passion lies in designing and bringing to life highly responsive, super optimized creations that adhere to the best industry practices. My expertise primarily centers around cloud technologies, and I thrive on solving intricate challenges to create seamless user experiences. Solving these challenges fuels my love for coding, and I'm always eager to take on new adventures in the tech world. Let's build something amazing together!"
 
 ### Career Break
-![The Millers](/images/triund.jpg)
+![The Millers](images/triund.jpg)
 **December 2022 - August 2023**
 
 During the past year, I had the wonderful opportunity to spend quality time with my family in India. 
