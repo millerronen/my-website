@@ -1,0 +1,64 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My Website'
+theme = 'hugo-coder'
+paginate = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Ronen Miller"
+  info = "Full Stack Developer and a Martial Artist"
+  description = "Ronen Miller's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/myself.jpg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/millerronen/"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/ronenmiller/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/ronen_miller/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
