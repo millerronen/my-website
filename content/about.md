@@ -38,7 +38,7 @@ In my previous role at Cloudinary, a leading SaaS technology company in the real
 
 - **Bachelor of Science in Software and Information Systems Engineering** 
 [Ben-Gurion University of the Negev, 2001 - 2005]
-<!-- ![[Ben-Gurion University of the Negev](/images/logo.png) -->
+![Ben-Gurion University of the Negev](/images/logo.jpg)
 
 Feel free to reach out and connect! 
 I am always eager to collaborate and work on exciting projects.
