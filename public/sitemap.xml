@@ -2,14 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/authors/</loc>
+    <loc>https://millerronen.github.io/my-website/authors/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://millerronen.github.io/my-website/categories/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://millerronen.github.io/my-website/</loc>
   </url><url>
-    <loc>https://example.org/series/</loc>
+    <loc>https://millerronen.github.io/my-website/about/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://millerronen.github.io/my-website/series/</loc>
+  </url><url>
+    <loc>https://millerronen.github.io/my-website/tags/</loc>
   </url>
 </urlset>
