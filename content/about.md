@@ -22,7 +22,7 @@ and successfully launching my own app.
 ## Professional Experience
 
 ### Senior Backend Engineer at Cloudinary 
-![Cloudinary](/images/cloudinary.png)
+![Cloudinary](images/cloudinary.png)
 **June 2020 - November 2022**
 
 In my previous role at Cloudinary, a leading SaaS technology company in the realm of image and video management services, 
@@ -47,7 +47,7 @@ showcasing my proficiency in a spectrum of technologies including Ruby on Rails,
 - *DevOps:* Docker, Kubernetes, Jenkins
 
 ### Senior Backend Engineer at Zerto 
-![Cloudinary](/images/zerto.png)
+![Cloudinary](images/zerto.png)
 **July 2016 - March 2020**
 
 I bring expertise in enterprise-class disaster recovery and business continuity software from my time at Zerto.
@@ -76,7 +76,7 @@ scalable systems that ensure business resilience and continuity.
 
 
 ### Software Engineer at Pentalum
-![Pentalum](/images/pentalum.png)
+![Pentalum](images/pentalum.png)
 **April 2014 — June 2016**
 #### Highlights
 - Spearheaded development efforts at Pentalum, specializing in a remote wind measurement system to assess wind profiles.
@@ -85,7 +85,7 @@ scalable systems that ensure business resilience and continuity.
 
 
 ### Realtime Software Engineer at Elta - IAI 
-![IAI](/images/iai.png)
+![IAI](images/iai.png)
 **January 2005 - March 2013**
 #### Highlights
 - Implemented DSP Algorithms using C and Assembler for the Iron Dome.
@@ -96,7 +96,7 @@ scalable systems that ensure business resilience and continuity.
 
 
 ### Education
-![Ben-Gurion University of the Negev](/images/logo.png) 
+![Ben-Gurion University of the Negev](images/logo.png) 
 **Bachelor of Science in Software and Information Systems Engineering** 
 - Ben-Gurion University of the Negev (2001 - 2005)
 - GPA: 86
