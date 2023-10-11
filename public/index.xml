@@ -8,8 +8,17 @@
     <language>en-us</language><atom:link href="https://millerronen.github.io/my-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ronen Miller</title>
+      <link>https://millerronen.github.io/my-website/posts/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://millerronen.github.io/my-website/posts/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+    <item>
+      <title>Ronen Miller</title>
       <link>https://millerronen.github.io/my-website/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://millerronen.github.io/my-website/about/</guid>
       <description>About MeLink to heading&amp;ldquo;Hey there! I&amp;rsquo;m a seasoned Backend Engineer with over a decade of hands-on experience crafting and scaling up some seriously complex systems. My passion lies in designing and bringing to life highly responsive, super optimized creations that adhere to the best industry practices. My expertise primarily centers around cloud technologies, and I thrive on solving intricate challenges to create seamless user experiences. Solving these challenges fuels my love for coding, and I&amp;rsquo;m always eager to take on new adventures in the tech world.</description>

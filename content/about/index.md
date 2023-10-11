@@ -1,7 +1,7 @@
 ---
 title: "Ronen Miller"
 image: "myself.jpg"
-date: 2023-MM-09
+date: "2023-10-09"
 description: "Backend Engineer | Cloud Specialist | Technology Enthusiast"
 --- 
 
