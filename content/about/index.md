@@ -5,13 +5,13 @@ date: "2023-10-09"
 description: "Backend Engineer | Cloud Specialist | Technology Enthusiast"
 --- 
 
-![Ronen Miller](images/myself.jpg)
+![Ronen Miller](myself.jpg)
 
 ### About Me
 "Hey there! I'm a seasoned Backend Engineer with over a decade of hands-on experience crafting and scaling up some seriously complex systems. My passion lies in designing and bringing to life highly responsive, super optimized creations that adhere to the best industry practices. My expertise primarily centers around cloud technologies, and I thrive on solving intricate challenges to create seamless user experiences. Solving these challenges fuels my love for coding, and I'm always eager to take on new adventures in the tech world. Let's build something amazing together!"
 
 ### Career Break
-![The Millers](images/triund.jpg)
+![The Millers](triund.jpg)
 **December 2022 - August 2023**
 
 During the past year, I had the wonderful opportunity to spend quality time with my family in India. 
@@ -22,7 +22,7 @@ and successfully launching my own app.
 ## Professional Experience
 
 ### Senior Backend Engineer at Cloudinary 
-![Cloudinary](images/cloudinary.png)
+![Cloudinary](cloudinary.png)
 **June 2020 - November 2022**
 
 In my previous role at Cloudinary, a leading SaaS technology company in the realm of image and video management services, 
@@ -47,7 +47,7 @@ showcasing my proficiency in a spectrum of technologies including Ruby on Rails,
 - *DevOps:* Docker, Kubernetes, Jenkins
 
 ### Senior Backend Engineer at Zerto 
-![Cloudinary](images/zerto.png)
+![Cloudinary](zerto.png)
 **July 2016 - March 2020**
 
 I bring expertise in enterprise-class disaster recovery and business continuity software from my time at Zerto.
@@ -76,7 +76,7 @@ scalable systems that ensure business resilience and continuity.
 
 
 ### Software Engineer at Pentalum
-![Pentalum](images/pentalum.png)
+![Pentalum](pentalum.png)
 **April 2014 — June 2016**
 #### Highlights
 - Spearheaded development efforts at Pentalum, specializing in a remote wind measurement system to assess wind profiles.
@@ -85,7 +85,7 @@ scalable systems that ensure business resilience and continuity.
 
 
 ### Realtime Software Engineer at Elta - IAI 
-![IAI](images/iai.png)
+![IAI](iai.png)
 **January 2005 - March 2013**
 #### Highlights
 - Implemented DSP Algorithms using C and Assembler for the Iron Dome.
@@ -96,7 +96,7 @@ scalable systems that ensure business resilience and continuity.
 
 
 ### Education
-![Ben-Gurion University of the Negev](images/logo.png) 
+![Ben-Gurion University of the Negev](logo.png) 
 **Bachelor of Science in Software and Information Systems Engineering** 
 - Ben-Gurion University of the Negev (2001 - 2005)
 - GPA: 86
