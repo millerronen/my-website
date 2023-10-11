@@ -1,6 +1,6 @@
 baseURL = 'https://millerronen.github.io/my-website/'
 languageCode = 'en-us'
-title = 'My Website'
+title = 'A Journey Through Code and Serenity'
 theme = 'hugo-coder'
 paginate = 20
 
