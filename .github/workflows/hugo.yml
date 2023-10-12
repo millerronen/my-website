@@ -52,7 +52,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "https://www.zen-stack.com/"
+            --baseURL "https://www.zen-stack.com/my-website/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
