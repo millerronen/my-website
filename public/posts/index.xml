@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on A Journey Through Code and Serenity</title>
-    <link>https://www.zen-stack.com/my-website/posts/</link>
+    <link>https://millerronen.github.io/my-website/posts/</link>
     <description>Recent content in Posts on A Journey Through Code and Serenity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.zen-stack.com/my-website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://millerronen.github.io/my-website/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Jerusalem Design Week Web App</title>
-      <link>https://www.zen-stack.com/my-website/posts/post1/</link>
+      <link>https://millerronen.github.io/my-website/posts/post1/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.zen-stack.com/my-website/posts/post1/</guid>
+      <guid>https://millerronen.github.io/my-website/posts/post1/</guid>
       <description>Reflection on Jerusalem Design Week 2023 (22-29.6)Link to heading&amp;ldquo;Nothing happens twice. That&amp;rsquo;s why we were born without any preparation. And we will die without routine.&amp;rdquo; - Wisława Szymborska
 Banknotes are a symbol from the beginning of civilization and accompany us even further.
 What would happen if everyone issued their own value?

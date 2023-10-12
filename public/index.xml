@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Journey Through Code and Serenity</title>
-    <link>https://www.zen-stack.com/my-website/</link>
+    <link>https://millerronen.github.io/my-website/</link>
     <description>Recent content on A Journey Through Code and Serenity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.zen-stack.com/my-website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://millerronen.github.io/my-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://www.zen-stack.com/my-website/contact/</link>
+      <link>https://millerronen.github.io/my-website/contact/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.zen-stack.com/my-website/contact/</guid>
+      <guid>https://millerronen.github.io/my-website/contact/</guid>
       <description>
 Mail: ronenmiller@gmail.comLink to headingMobile: 972-52-423-8384Link to heading</description>
     </item>
     
     <item>
       <title>My Jerusalem Design Week Web App</title>
-      <link>https://www.zen-stack.com/my-website/posts/post1/</link>
+      <link>https://millerronen.github.io/my-website/posts/post1/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.zen-stack.com/my-website/posts/post1/</guid>
+      <guid>https://millerronen.github.io/my-website/posts/post1/</guid>
       <description>Reflection on Jerusalem Design Week 2023 (22-29.6)Link to heading&amp;ldquo;Nothing happens twice. That&amp;rsquo;s why we were born without any preparation. And we will die without routine.&amp;rdquo; - Wisława Szymborska
 Banknotes are a symbol from the beginning of civilization and accompany us even further.
 What would happen if everyone issued their own value?
@@ -31,10 +31,10 @@ Yonatan Assouline, Ben Drusinsky and I got the opportunity to work on this exper
     
     <item>
       <title>Ronen Miller</title>
-      <link>https://www.zen-stack.com/my-website/about/</link>
+      <link>https://millerronen.github.io/my-website/about/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.zen-stack.com/my-website/about/</guid>
+      <guid>https://millerronen.github.io/my-website/about/</guid>
       <description>About MeLink to heading&amp;ldquo;Hey there! I&amp;rsquo;m a seasoned Backend Engineer with over a decade of hands-on experience crafting and scaling up some seriously complex systems. My passion lies in designing and bringing to life highly responsive, super optimized creations that adhere to the best industry practices. My expertise primarily centers around cloud technologies, and I thrive on solving intricate challenges to create seamless user experiences. Solving these challenges fuels my love for coding, and I&amp;rsquo;m always eager to take on new adventures in the tech world.</description>
     </item>
     
