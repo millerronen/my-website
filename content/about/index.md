@@ -110,8 +110,27 @@ scalable systems that ensure business resilience and continuity.
 - Go: The Complete Developer's Guide (Golang) - Udemy
 - JS: The Complete Javascript Course 2023 - From Zero to Expert! - Udemy
 
+### Personal Projects
+AI powered WebApp for the Jerusalem Design Week 2023
+https://yourownbill.com/
 
 
+### Skills
+- Write Good & Clean Code
+- Team Work
+- Adaptive to Change
+- Self Educated
+- Problem Solver
+- Innovate
+- Share Knowledge
+- Emotional Intelligence
+
+### Hobbies
+![Seiza](seiza.jpg)
+Aikidoka - Japanese Martial Art
+
+![Yoag](yoga.jpg)
+Yogi
 
 Feel free to reach out and connect! 
 I am always eager to collaborate and work on exciting projects.
