@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on A Journey Through Code and Serenity</title>
-    <link>https://millerronen.github.io/my-website/categories/</link>
+    <link>https://www.zen-stack.com/my-website/categories/</link>
     <description>Recent content in Categories on A Journey Through Code and Serenity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://millerronen.github.io/my-website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.zen-stack.com/my-website/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
