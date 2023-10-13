@@ -1,4 +1,4 @@
-baseURL = 'https://millerronen.github.io/my-website/'
+baseURL = 'https://www.zen-stack.com/'
 languageCode = 'en-us'
 title = 'A Journey Through Code and Serenity'
 theme = 'hugo-coder'
