@@ -94,6 +94,9 @@ scalable systems that ensure business resilience and continuity.
 - Led the development of command and control radars with a Full Stack approach using C#.
 - Earned endorsements and secured a significant grant for outstanding junior engineers.
 
+### Army Service (1997 - 2000)
+![Bamtza108](bamtza.png) 
+Unit 108 is a level 4 maintenance unit for electronics, ICT, and weapons, where I served as a testing equipment electrician in the army. Located at the Zerifin base under the Air Force's technological headquarters.
 
 ### Education
 ![Ben-Gurion University of the Negev](logo.png) 
